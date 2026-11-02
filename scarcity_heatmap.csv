@@ -1,0 +1,8 @@
+huc8,basin_name,state,scarcity_tier,scarcity_ratio,total_available_credits,projected_debit_need,approved_banks_count,sold_out_banks_count,benchmark_price_per_credit,total_market_float_value,estimated_broker_fee_pool,primary_sponsors,notes
+03090206,Southeast Florida Coast (Palm Beach / Broward),FL,CRITICAL_DEFICIT,450.0,0,22.5,0,1,550000.0,0.0,0.0,,2 key infrastructure drivers. Extreme supply squeeze; developers actively seeking off-market credits.
+03080201,Northern Indian River Lagoon (Volusia),FL,CRITICAL_DEFICIT,190.0,0,9.5,0,1,280000.0,0.0,0.0,,2 key infrastructure drivers. Extreme supply squeeze; developers actively seeking off-market credits.
+03090202,Everglades / Biscayne Bay (Miami-Dade),FL,CRITICAL_DEFICIT,5.62,6.0,34.0,1,0,550000.0,3300000.0,247500.0,South Florida Eco-Assets LLC,3 key infrastructure drivers. Extreme supply squeeze; developers actively seeking off-market credits.
+03050101,Upper Catawba (Charlotte Metro),NC,HIGH_SCARCITY,2.8,12500.0,35000.0,1,0,650.0,8125000.0,609375.0,Resource Environmental Solutions (RES),2 key infrastructure drivers. Tight inventory; premium pricing power for bank sponsors.
+02070008,Middle Potomac / Anacostia / Occoquan (Northern VA),VA,HIGH_SCARCITY,2.42,11.5,28.0,1,0,95000.0,1092500.0,81937.5,"Wetland Studies and Solutions, Inc.",2 key infrastructure drivers. Tight inventory; premium pricing power for bank sponsors.
+03100206,Tampa Bay / Hillsborough River,FL,HIGH_SCARCITY,2.18,8.2,18.0,1,0,300000.0,2460000.0,184500.0,Tampa Bay Mitigation Holdings LLC,2 key infrastructure drivers. Tight inventory; premium pricing power for bank sponsors.
+03100101,Kissimmee / Polk Corridor,FL,MODERATE,0.82,14.5,12.0,1,0,280000.0,4060000.0,304500.0,Mitigation Banking Inc / Hammock Lake LLC,2 key infrastructure drivers. 
